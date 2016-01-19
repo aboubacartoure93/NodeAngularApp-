@@ -6,7 +6,7 @@ An Ionic Todo App for Scotch readers. To use this demo, make sure you have read 
 
 ### Clone the repository and cd the the app's folder:
  ````
- git clone https://github.com/christiannwamba/scotch-todo
+ 
  ````
  
  ````
